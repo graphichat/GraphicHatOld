@@ -94,7 +94,7 @@ a:focus {
 }
 
 .home {
-	background: url(../img/slider.jpg) no-repeat top fixed;
+	background: url(../img/background-1.jpg) no-repeat top fixed;
 	position: relative;
 	width: 100%;
 	position: relative;
@@ -385,7 +385,7 @@ cursor: pointer;
 	color: #ffe600;
 	border-color: #ffe600;
 }
- 
+
 .team-member .name {
 	display: block;
 	text-transform: uppercase;
@@ -410,7 +410,7 @@ cursor: pointer;
 background-size: cover;
 background-attachment: fixed;
 	color: #fff;
-	
+
 }
 .branded-section p {
 	color: #fff;
@@ -446,7 +446,7 @@ background-attachment: fixed;
 }
 .process {
 	background: url('../img/how-we-do-it.jpg') 0px 0px no-repeat;
-	
+
 background-size: cover;
 background-attachment: fixed;
 
@@ -470,7 +470,7 @@ background-attachment: fixed;
 	font-size: 35px;
 	letter-spacing: -3px;
 	line-height: 130px;
-	
+
 	position: absolute;
 	text-align: center;
 	top: 5px;
@@ -771,7 +771,7 @@ Forms
 		-ms-transform:translateY(40px);
 		transform:translateY(40px);
 	}
-	
+
 	100%{
 		opacity: 1;
 		-webkit-transform: translateY(0);
@@ -804,7 +804,7 @@ Forms
 		-ms-transform:translateY(-40px);
 		transform:translateY(-40px);
 	}
-	
+
 	100%{
 		opacity: 1;
 		-webkit-transform: translateY(0);
@@ -1296,9 +1296,9 @@ RESPONSIVE
 .loader{
 	display: block;
 	background: #ffe600;
-	position:fixed; 
+	position:fixed;
 	top:0; left:0; right:0; bottom:0;
-	width:100%; 
+	width:100%;
 	height:100%;
 	clear:both;
 	-moz-transition: all 2s ease;
